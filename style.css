@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+div {
+  border: 2px black solid;
+}
+
+button{
+  margin: 20px;
+}
+
+.container {
+  display: grid;
+  margin: auto;
+  border: 2px solid black;
+  width: 500px;
+  height: 500px;
+}
+
+.colored {
+  background-color: red;
+}
