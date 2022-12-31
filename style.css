@@ -16,10 +16,10 @@ button{
   display: grid;
   margin: auto;
   border: 2px solid black;
-  width: 500px;
-  height: 500px;
+  width: 600px;
+  height: 600px;
 }
 
 .colored {
-  background-color: red;
+  background-color: rgb(255, 0, 0);
 }
